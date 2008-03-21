@@ -1,12 +1,12 @@
 * text=auto !eol
 /Makefile -text
+/apertium-pt-ca.ca-pt.t1x -text
 /apertium-pt-ca.ca.dix -text
 /apertium-pt-ca.post-ca.dix -text
 /apertium-pt-ca.post-pt.dix -text
 /apertium-pt-ca.pt-ca.dix -text
+/apertium-pt-ca.pt-ca.t1x -text
 /apertium-pt-ca.pt.dix -text
-/apertium-pt-ca.trules-ca-pt.xml -text
-/apertium-pt-ca.trules-pt-ca.xml -text
 /ca-pt.prob -text svneol=unset#unset
 /modes.xml -text
 /pt-ca.prob -text svneol=unset#unset

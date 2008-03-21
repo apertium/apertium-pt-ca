@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/Makefile.am -text
 /apertium-pt-ca.ca-pt.t1x -text
 /apertium-pt-ca.ca.dix -text
 /apertium-pt-ca.post-ca.dix -text
@@ -7,6 +8,8 @@
 /apertium-pt-ca.pt-ca.dix -text
 /apertium-pt-ca.pt-ca.t1x -text
 /apertium-pt-ca.pt.dix -text
+/autogen.sh -text
 /ca-pt.prob -text svneol=unset#unset
+/configure.ac -text
 /modes.xml -text
 /pt-ca.prob -text svneol=unset#unset

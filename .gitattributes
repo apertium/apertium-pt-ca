@@ -7,18 +7,6 @@
 /apertium-pt-ca.pt.dix -text
 /apertium-pt-ca.trules-ca-pt.xml -text
 /apertium-pt-ca.trules-pt-ca.xml -text
-/ca-pt.autobil.bin -text
-/ca-pt.autogen.bin -text
-/ca-pt.automorf.bin -text svneol=unset#unset
-/ca-pt.autopgen.bin -text
 /ca-pt.prob -text svneol=unset#unset
 /modes.xml -text
-/pt-ca.autobil.bin -text
-/pt-ca.autogen.bin -text svneol=unset#unset
-/pt-ca.automorf.bin -text
-/pt-ca.autopgen.bin -text
 /pt-ca.prob -text svneol=unset#unset
-/trules-ca-pt.bin -text
-/trules-ca-pt.xml -text
-/trules-pt-ca.bin -text
-/trules-pt-ca.xml -text
